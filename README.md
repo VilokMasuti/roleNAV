@@ -1,4 +1,4 @@
-# RoleNav / FreightFox
+# RoleNav
 
 RoleNav is a React dashboard for demonstrating role-based access.
 
